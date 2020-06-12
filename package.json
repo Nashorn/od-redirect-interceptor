@@ -1,0 +1,11 @@
+{
+    "name": "od-redirect-interceptor",
+    "version": "2.0.0",
+    "description": "",
+    "main": "main.js",
+    "author": "",
+    "license": "MIT",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+}
